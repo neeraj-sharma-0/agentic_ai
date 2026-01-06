@@ -4,8 +4,7 @@
 
 <img width="358" height="358" alt="image" src="https://github.com/user-attachments/assets/ec0fbdd3-d22e-4830-a1ed-fe5762b75547" />
 
-### Building AI Agents over the weekend 
-####  PacktPub / June 2025
+### Referenec: Building AI Agents over the weekend  / PacktPub / June 2025
 
 ### Glossary
 | # | Abbreviation | Term                              | 
