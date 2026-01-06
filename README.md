@@ -1,5 +1,4 @@
-# Agentic AI: CVE + EPSS Prioritization leveraging Langchain
-## Using Python Langchain, Langgraph, Langsmith
+# Agentic AI: CVE + EPSS Prioritization leveraging Python Langchain, Langgraph, Langsmith
 
 
 <img width="358" height="358" alt="image" src="https://github.com/user-attachments/assets/ec0fbdd3-d22e-4830-a1ed-fe5762b75547" />
