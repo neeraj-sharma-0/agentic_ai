@@ -1,4 +1,7 @@
-# Agentic AI: Using Python Langchain, Langgraph, Langsmith
+# Agentic AI: CVE + EPSS Prioritization leveraging Langchain
+## Using Python Langchain, Langgraph, Langsmith
+
+
 <img width="358" height="358" alt="image" src="https://github.com/user-attachments/assets/ec0fbdd3-d22e-4830-a1ed-fe5762b75547" />
 
 ### Building AI Agents over the weekend 
@@ -25,7 +28,7 @@ the AI agent begins by conducting real-time data ingestion from NIST, utilizing 
 
 The AI agent concludes by performing real-time auto-prioritization using langchain, leading to streamlined CVE remediation for enhancing cybersecurity efforts.
 
-### Pydot AI-Agent Graph Visualization (Ba sic)
+### Pydot AI-Agent Graph Visualization (Basic)
 
 <img width="616" height="976" alt="ydot AI-Agent Graph Visualization" src="https://github.com/user-attachments/assets/c8b17860-76b5-4039-a19e-e3e33f4bd00f" />
 
